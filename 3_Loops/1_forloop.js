@@ -20,3 +20,12 @@ for(let k = 0; k>0; k++){
     console.log("Hello")
 }
 
+console.log("----------------------")
+
+function greet(){
+    console.log("H")
+}
+
+for(let l = 0; l < 3; l++){
+    greet();
+}
